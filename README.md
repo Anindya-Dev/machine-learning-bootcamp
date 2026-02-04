@@ -102,7 +102,6 @@ This repository follows a comprehensive curriculum:
 ## 📅 Learning Approach
 
 - 📌 Daily study and practice
-- 📌 Small, meaningful commits
 - 📌 Clear commit messages describing what was learned
 - 📌 Incremental improvement over time
 
