@@ -128,5 +128,3 @@ The GitHub streak is used as a **tool for consistency**, not as a vanity metric.
 ## 🚀 Final Note
 
 This repository represents my **commitment to learning Machine Learning seriously**, building strong fundamentals, and growing step by step.
-
-**Consistency > Motivation**
